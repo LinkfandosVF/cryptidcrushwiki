@@ -2,3 +2,6 @@ The game is formed as a [visual novel](https://en.wikipedia.org/wiki/Visual_nove
 
 Multiples events and elements in the game are affected by Random using the [Rolling](mechanics/Rolling) mechanics or choices. Most of them can highly change the story.
 
+
+
+Back to [[../README|README]]
