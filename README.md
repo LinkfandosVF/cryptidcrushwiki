@@ -5,8 +5,8 @@
 ### Index
 
 - **General Information**
-	- [Plot](./Plot.md#)
-	- [Game-Design](./Game-Design.md#)
+	- [Plot](./general/Plot.md#)
+	- [Game-Design](./general/Game-Design.md#)
 - **Story**
 	- Characters
 	- In depth analyze
@@ -24,4 +24,4 @@
 	- Translations
 	- Development Team
 
-Don't know where to start? Check out the [Plot](./Plot.md#) First.
+Don't know where to start? Check out the [Plot](./general/Plot.md#) First.
