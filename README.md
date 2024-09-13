@@ -5,10 +5,10 @@
 ### Index
 
 - **General Information**
-	- [Plot](./general/Plot.md#)
-	- [Game-Design](./general/Game-Design.md#)
+	- [Plot](./General/Plot.md#)
+	- [Game-Design](./General/Game-Design.md#)
 - **Story**
-	- Characters
+	- [Characters](./Story/Characters.md#)
 	- In depth analyze
 - **Mechanics**
 	- Rolling
@@ -24,4 +24,4 @@
 	- Translations
 	- Development Team
 
-Don't know where to start? Check out the [Plot](./general/Plot.md#) First.
+Don't know where to start? Check out the [Plot](./General/Plot.md#) First.
