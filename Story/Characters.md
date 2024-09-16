@@ -9,9 +9,9 @@ Also called Date-able.
 - [Tessie](Characters/tessie)
 ## Other Characters
 "Also main characters, but you probably can't date them. They're important. That's all." -someone
-- [Taro](Characters/taro)
+- [Taro](../Characters/Taro.md#)
 - [Edith](Characters/edith)
-- - [Oz](Characters/oz)
+-  [Oz](../Characters/Oz.md#)
 - [Thursday](Characters/thursday-birb)
 - [Lexulathu'al](Characters/lex)
 - [Mothman](../Characters/Atticus.md#)(Or Atticus)
