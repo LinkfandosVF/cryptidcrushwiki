@@ -6,7 +6,7 @@ Also called Date-able.
 - [Jamie](../Characters/Jamie.md#)
 - [Madhouse Mike](../Characters/Madhouse.md#)
 - [August](../Characters/August.md#)
-- [Tessie](Characters/Tessie.md)
+- [Tessie](../Characters/Tessie.md#)
 ## Other Characters
 "Also main characters, but you probably can't date them. They're important. That's all." -someone
 - [Taro](../Characters/Taro.md#)
