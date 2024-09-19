@@ -8,7 +8,9 @@ She/Her - Lake monster
 > "Dwelling in the depths of the lake, a lonely cryptid rises from the waves after years of solitude. Taking on the form of a human (during the day), Tessie is a gentle giant who's trying to find a place in the world."
 
 ## Look
-Tessie is a tall dark skinned female human with black and green hair. In her human form, Tessie have a tail, as well as some scales on the face near the left eye. Her normal outfit is composed of a long-sleeved shirt coupled with jeans and boots and a belt.
+Tessie is a tall dark skinned female human with black and green hair. In her human form, Tessie has a tail, as well as some scales on the face near the left eye. Her normal outfit is composed of a long-sleeved shirt coupled with jeans and boots and a belt.
+
+[Image of human Tessie](/img/TessieHuman.png)
 
 Her monster form changes her to have purple eyes, longer hairs and a bigger aquatic body, similar to underwater animals.
 ## Lore (WIP)
