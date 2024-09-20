@@ -15,6 +15,8 @@ In his werewolf form, he grows considerably taller, his entire body taking on lu
 
 ## Lore
 August's full name is Augustus James Summers.
+### In Game
+August is a main character, meaning he's going to be romance-able in future updates.
 
 ## Meta
 August is voiced by [Tom Schalk](https://x.com/TomStheVoice).
