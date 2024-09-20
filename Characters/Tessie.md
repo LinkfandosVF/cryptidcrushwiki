@@ -10,7 +10,7 @@ She/Her - Lake monster
 ## Look
 Tessie is a tall dark skinned female human with black and green hair. In her human form, Tessie has a tail, as well as some scales on the face near the left eye. Her normal outfit is composed of a long-sleeved shirt coupled with jeans and boots and a belt.
 
-[Image of human Tessie](/img/TessieHuman.png)
+![Image of human Tessie](/img/TessieHumante.png)
 
 Her monster form changes her to have purple eyes, longer hairs and a bigger aquatic body, similar to underwater animals.
 ## Lore (WIP)
