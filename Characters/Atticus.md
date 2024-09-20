@@ -9,6 +9,6 @@ He/Him - *A* mothman
 Atlas is a short-statured young adult mothman. Atlas has large red eyes with white sclera, thick black hair around his neck, and black antennae. His upper body and wings are silver grey. He does not wear shoes due to his large, taloned feet. 
 
 ## Lore (WIP)
-Atlas's full name is Atticus Indrid.
+Atlas's full name is Atlas Indrid.
 ## Meta
 Atlas is voiced by [Patrick Mealey](https://x.com/PatMikeVA).
