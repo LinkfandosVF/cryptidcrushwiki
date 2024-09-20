@@ -16,6 +16,7 @@ Madhouse Mike is a green ghost, with long hair and a suprising lack of pupils. M
 Madhouse is called multiple times a "urban legend" described as the ghost of Elkhorn Station. His name was Micheal Delarosa, before he became a ghost.
 
 *"He died while advertising a sketchy energy drink brand. He thought that drinking the whole sample box was a good idea. That worked for like, 2 seconds."* - Atlas in Chapter 0 (Elkhorn Radio Station)
-
+### In Game
+Mike is a main character, meaning he's going to be romance-able in future updates.
 ## Meta
 Madhouse Mike is voiced by [Desert Pogona](https://x.com/DesertPogona).
