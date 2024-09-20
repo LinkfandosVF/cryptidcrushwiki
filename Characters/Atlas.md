@@ -10,5 +10,7 @@ Atlas is a short-statured young adult mothman. Atlas has large red eyes with whi
 
 ## Lore (WIP)
 Atlas's full name is Atlas Indrid. He was born on the 21st of December 1999.
+### In Game
+Atlas is a main character, meaning he's probably going to be romance-able in future updates.
 ## Meta
 Atlas is voiced by [Patrick Mealey](https://x.com/PatMikeVA).
