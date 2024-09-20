@@ -11,6 +11,7 @@ They/Them - Devil
 ## Look
 Jamie is an imposing, muscular demon with an exposed skull on the top half of their head. Jamie has a red skin tone and no hair, instead having a pair of curled horns and a small blue flame on their head. They have long drooping ears, large clawed hands, and hooved feet.
 ## Lore (WIP)
-
+### In Game
+Jamie is a main character, meaning they're going to be romance-able in future updates.
 ## Meta
 Jamie is voiced by [Marissa Lenti](https://x.com/MarissaLenti).
