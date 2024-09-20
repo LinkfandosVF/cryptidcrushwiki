@@ -12,6 +12,7 @@ Age unknown
 Oz is a grey howler, that has black tattoos on his arms, and a (possibly) surgical scar on his chest.
 
 ## Lore (WIP)
-
+### In Game
+Oz is a main character, meaning he's probably going to be romance-able in future updates.
 ## Meta
 Oz is voiced by... who voices him actually?
