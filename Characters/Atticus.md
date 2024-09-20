@@ -1,12 +1,14 @@
 # Atticus Indrid (?)
-He/Him
+He/Him - *A* mothman
 
-"old" -Mikey
+5'11" or 180 CM
 
-Also called "Mothman" in the intro of the game.
+> "Atlas is a self-proclaimed paranormal investigator known for bringing bad luck. Despite his brooding exterior, Atlas is a bubbly little bug man who loves writing and running his many blogs. He's very camera shy."
 
-# Look
-(wip)
+## Look
+Atlas is a short-statured young adult mothman. Atlas has large red eyes with white sclera, thick black hair around his neck, and black antennae. His upper body and wings are silver grey. He does not wear shoes due to his large, taloned feet. 
 
-# Lore
-(wip)
+## Lore (WIP)
+
+## Meta
+Atlas is voiced by [Patrick Mealey](https://x.com/PatMikeVA).
