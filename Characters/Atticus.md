@@ -3,7 +3,7 @@ He/Him - **The** mothman
 
 Height unknown
 
-Age unknown
+"Old" -Mike
 
 > "We don't have a quote for Atticus yet!"
 
@@ -11,7 +11,7 @@ Age unknown
 (wip)
 
 ## Lore
-Atticus is Atlas' dad.
+Atticus is Atlas' father.
 
 ## Meta
 Atticus is voiced by... uh... um... uhmmmm... uhh...
