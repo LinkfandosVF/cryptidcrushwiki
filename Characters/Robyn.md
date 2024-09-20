@@ -16,5 +16,5 @@ Robyn's style can vary depending on how you answered the Mothman's question in t
 The styles differs between hair styles, the color of the vest, accessories, glasses...
 
 ## Lore
-
-(Huh. It seems someone forgot to write this part... How about you do it yourself?)
+### In Game
+Robyn is the protagonist of the game, meaning that **YOU** control the lore, in a way.
