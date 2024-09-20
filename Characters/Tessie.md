@@ -19,3 +19,6 @@ Tessie is a reference to the Lochness monster, (Nessie -> Tessie) a myth from 19
 
 ### In Game
 Tessie is a main character, meaning she's going to be romance-able in future updates.
+
+## Meta
+Tessie is voiced by [Cassie Ewulu](https://x.com/Sapphberry).
