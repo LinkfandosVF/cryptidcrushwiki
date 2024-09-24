@@ -3,7 +3,7 @@ They/Them - Devil
 
 5'10" or 178 CM
 
-~ 200 years old
+Jamie was born on the 27/7.
 
 > "A demon who, after centuries, grew tired of their devilish lifestyle. They instead have tried to live a simpler, peaceful life, or at least as close to one an exhiled demon from Hell can get. Imposing as they may be, Jamie hopes to one day be understood by mortals."
 
