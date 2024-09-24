@@ -3,7 +3,7 @@ He/Him - Howler (Zombie & vampire mix)
 
 Height unknown
 
-Age unknown
+Oz was born on the 24/9
 
 > "Oz doesn't really talk much, so we don't have a quote for him!"
 
