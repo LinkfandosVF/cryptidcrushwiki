@@ -12,7 +12,7 @@ Robyn is a 5'10" tall dark-skinned human with long black curly hairs.
 
 Robyn's style can vary depending on how you answered the Mothman's question in the intro of the game. (See [Atticus](./Atticus.md#)) Their look can either be selected using presets, or changed completely near the end of the intro.
 
-[!../img/robyn-original.png]
+(Robyn default canon sprite)[../img/robyn-original.png]
 **insert image here**
 
 (Robyn's canon style that can be found on the official website.)
