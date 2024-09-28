@@ -4,10 +4,11 @@
 ==This wiki is GREATLY UNFINISHED. You can do pull requests and ask me to give you editing rights if you want to help!==
 ### Index
 
+[Lexica](./Lexica) - Contains words, cameos, definition and names.
+
 - **General Information**
 	- [Plot](./General/Plot.md#)
 	- [Game-Design](./General/Game-Design.md#)
- - [Lexica](./Lexica)
 - **Story**
 	- [Characters](./Story/Characters.md#)
 	- In depth analyze
