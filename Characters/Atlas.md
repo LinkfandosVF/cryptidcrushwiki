@@ -13,6 +13,7 @@ Atlas's full name is Atlas Indrid. He was born on the 21st of December 1999.
 ### In Game
 Atlas is a main character, meaning he's probably going to be romance-able in future updates.
 ### General
-Atlas is part of the list of [characters displaying signs of parental issues](../Story/Silly/parent-issues.md#Robyn).
+Atlas is part of the list of [characters displaying signs of parental issues](../Story/Silly/parent-issues.md#Atlas).
+
 ## Meta
 Atlas is voiced by [Patrick Mealey](https://x.com/PatMikeVA).
