@@ -1,4 +1,4 @@
-# List of characters displaying Parents issues 
+# List of characters displaying signs of parental issues 
 > "The list is long, but do I include myself in?" - Linkfandos
 
 Note: This is mostly a joke article talking about aspects of lore. Might be rewritten later, idek.
