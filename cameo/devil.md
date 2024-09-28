@@ -4,7 +4,7 @@ Or sometimes called demons.
 ## General overview
 Devils are a specie figurated of mostly tall and generally bulky individuals.
 
-The look of the individual differs from origins, but it mostly runs around the appearance of horns, wings and tails with triangle shaped ends. Most of them wears a [skull](cameo/devil.md###Skull Mask) over their face.
+The look of the individual differs from origins, but it mostly runs around the appearance of horns, wings and tails with triangle shaped ends. Most of them wears a [skull](cameo/devil.md###Skull_Mask) over their face.
 
 ## Informations/Culture
 ### Skull Mask
