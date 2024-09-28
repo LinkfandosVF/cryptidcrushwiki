@@ -10,6 +10,7 @@ The look of the individual differs from origins, but it mostly runs around the a
 (Cryptid crush)
 
 - [Jamie](../Characters/Jamie.md)
+- Goatma'am (Parsnip)
 
 ## Informations/Culture
 ### Origins
