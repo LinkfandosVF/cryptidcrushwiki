@@ -13,9 +13,15 @@ The look of the individual differs from origins, but it mostly runs around the a
 
 ## Informations/Culture
 ### Origins
-It is explained sometimes in the game[¹](#anexes) that different Devils comes from different places in hell (?). 
+It is explained sometimes in the game[¹](#Annexes) that different Devils comes from different places in hell (?). 
 
 "New jersey" is mentioned multiple times in the game as [Jamie's](Characters/Jamie.md) birth place.
 ### Skulls
 Most of Devils wears skull on their head as a culture symbol symbolizing the undead of hell.(?)
-> "it's a devil coming of age tradition, not all of 'em do it. it's considered as counter-culture when you don't" - Mikey
+> "it's a devil coming of age tradition, not all of 'em do it. it's considered as counter-culture when you don't" - Mikey[²](#Annexes)
+
+
+
+## Annexes
+[1] - The term Game refers to Cryptid Crush.
+[2] - Mikey: See ["Mikey"](Mikey.md) in Lexica.
