@@ -7,6 +7,7 @@
 - **General Information**
 	- [Plot](./General/Plot.md#)
 	- [Game-Design](./General/Game-Design.md#)
+ - [Lexica](./Lexica)
 - **Story**
 	- [Characters](./Story/Characters.md#)
 	- In depth analyze
