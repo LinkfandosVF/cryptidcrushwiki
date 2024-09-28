@@ -24,4 +24,5 @@ Most of Devils wears skull on their head as a culture symbol symbolizing the und
 
 ## Annexes
 [1] - The term Game refers to Cryptid Crush.
+
 [2] - Mikey: See ["Mikey"](Mikey.md) in Lexica.
