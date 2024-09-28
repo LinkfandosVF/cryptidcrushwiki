@@ -15,3 +15,4 @@ Also called Date-able.
 - [Thursday](Characters/thursday-birb)
 - [Lexulathu'al](Characters/lex)
 - [Mothman](../Characters/Atticus.md#)(Or Atticus)
+- [Goatma'am](../Characters/Goatmaam.md#)
