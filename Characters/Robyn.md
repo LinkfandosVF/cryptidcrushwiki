@@ -11,10 +11,18 @@ They're the main character you play in the game.(Or MC)
 Robyn is a 5'10" tall dark-skinned human with long black curly hairs.
 
 Robyn's style can vary depending on how you answered the Mothman's question in the intro of the game. (See [Atticus](./Atticus.md#)) Their look can either be selected using presets, or changed completely near the end of the intro.
-![[../img/robyn-original.png|351]] 
+
+
+**insert image here**
+
 (Robyn's canon style that can be found on the official website.)
 The styles differs between hair styles, the color of the vest, accessories, glasses...
 
 ## Lore
 ### In Game
 Robyn is the protagonist of the game, meaning that **YOU** control the lore, in a way.
+(wip)
+
+### General 
+
+Robyn is part of the list of [characters displaying signs of parental issues](../Story/Silly/parent-issues.md#Robyn).
