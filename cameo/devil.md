@@ -7,7 +7,7 @@ Devils are a specie figurated of mostly tall and generally bulky individuals.
 The look of the individual differs from origins, but it mostly runs around the appearance of horns, wings and tails with triangle shaped ends. Most of them wears a [skull](#Skulls) over their face.
 
 ## Characters
--# Cryptid crush
+(Cryptid crush)
 
 - [Jamie](../Characters/Jamie.md)
 
