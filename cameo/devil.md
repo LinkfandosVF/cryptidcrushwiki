@@ -9,7 +9,7 @@ The look of the individual differs from origins, but it mostly runs around the a
 ## Characters
 -# Cryptid crush
 
-- [Jamie](Characters/Jamie.md)
+- [Jamie](../Characters/Jamie.md)
 
 ## Informations/Culture
 ### Origins
