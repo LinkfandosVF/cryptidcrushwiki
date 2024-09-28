@@ -26,3 +26,6 @@ Robyn is the protagonist of the game, meaning that **YOU** control the lore, in 
 ### General 
 
 Robyn is part of the list of [characters displaying signs of parental issues](../Story/Silly/parent-issues.md#Robyn).
+
+## Meta
+(Insert va and stuff here pls)
