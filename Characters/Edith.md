@@ -8,7 +8,13 @@ She/Her - Witch
 ## Look
 Edith is a white human, with black hair that is blue at the front. She has grey eyes.
 
+<img src="https://www.cryptidcrush.com/assets/images/image13.png?v=5fd43f5e" width="300">
+
+Edith's sprite from the website.
+
 ## Lore (WIP)
+Edith is, *supposendly*, a vampire. She also has a brother named [Edward](Edward.md).
+
 Edith is [Oz's](https://github.com/LinkfandosVF/cryptidcrushwiki/blob/main/Characters/Oz.md) boss.
 
 ## Meta
