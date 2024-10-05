@@ -8,6 +8,8 @@ He/Him - *A* mothman
 ## Look
 Atlas is a short-statured young adult mothman. Atlas has large red eyes with white sclera, thick black hair around his neck, and black antennae. His upper body and wings are silver grey. He does not wear shoes due to his large, taloned feet. 
 
+<img src="https://www.cryptidcrush.com/assets/images/image04.png?v=5fd43f5e" width="300">
+
 ## Lore (WIP)
 Atlas's full name is Atlas Indrid. He was born on the 21st of December 1999.
 ### In Game
