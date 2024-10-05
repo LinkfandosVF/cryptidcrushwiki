@@ -13,6 +13,8 @@ In his human form, Gus is a large-statured man. Gus has a light skin tone and wi
 
 In his werewolf form, he grows considerably taller, his entire body taking on lupine features, including a snout and pointed ears. His hands turn to padded feet, and his hair grows considerably, including thick, dark brown hair on his arms and legs, light brown hair on his chest, and yellow sclera. 
 
+<img src="https://www.cryptidcrush.com/assets/images/image05.png?v=5fd43f5e" width="300">
+August's sprite from the website. Half form, pehraps?
 ## Lore
 August's full name is Augustus James Summers.
 ### In Game
