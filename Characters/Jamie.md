@@ -10,6 +10,10 @@ Jamie was born on the 27/7.
 
 ## Look
 Jamie is an imposing, muscular demon with an exposed skull on the top half of their head. Jamie has a red skin tone and no hair, instead having a pair of curled horns and a small blue flame on their head. They have long drooping ears, large clawed hands, and hooved feet.
+
+<img src="https://www.cryptidcrush.com/assets/images/image06.png?v=5fd43f5e" width="300">
+Jamie's sprite from the website.
+
 ## Lore (WIP)
 ### In Game
 Jamie is a main character, meaning they're going to be romance-able in future updates.
