@@ -11,6 +11,9 @@ Unknown age
 ## Look
 Taro is a grey cat, with three heterochromic eyes (blue, purple and green).
 
+<img src="https://www.cryptidcrush.com/assets/images/image08.png?v=5fd43f5e" width="300">
+Taro's sprite from the website.
+
 ## Lore (WIP)
 
 ## Meta
