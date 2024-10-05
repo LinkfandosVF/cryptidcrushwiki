@@ -11,7 +11,8 @@ He/Him - Ghost
 ## Look
 Madhouse Mike is a green ghost, with long hair and a suprising lack of pupils. Madhouse's green appearance is actually due to the way he died, being given the energy drink he was supposed to promote on the line.
 
-![Madhouse](https://www.cryptidcrush.com/assets/images/image12.png?v=5fd43f5e)
+
+<img src="https://www.cryptidcrush.com/assets/images/image12.png?v=5fd43f5e" width="300">
 
 *"Seriously, who would trust a brand of the name of 'Toxic waste energy'? He drank so much his skin turned glowing green and he died on the spot!"* - Atlas in Chapter 0 (Elkhorn Radio Station)
 ## Lore
