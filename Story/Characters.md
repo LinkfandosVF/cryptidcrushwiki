@@ -10,9 +10,9 @@ Also called Date-able.
 ## Other Characters
 "Also main characters, but you probably can't date them. They're important. That's all." -someone
 - [Taro](../Characters/Taro.md#)
-- [Edith](Characters/edith)
+- [Edith](../Characters/edith)
 -  [Oz](../Characters/Oz.md#)
-- [Thursday](Characters/thursday-birb)
+- [Thursday](../Characters/thursday-birb)
 - [Lexulathu'al](Characters/lex)
 - [Mothman](../Characters/Atticus.md#)(Or Atticus)
 - [Goatma'am](../Characters/Goatmaam.md#)
