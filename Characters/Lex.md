@@ -13,7 +13,12 @@ Lex is a black monster, with four arms, black wings and a blue tongue. His shape
 <img src="https://www.cryptidcrush.com/assets/images/image14.png?v=5fd43f5e" width="300">
 Lex.
 
+Another interessting fact is Lex mentionning that his look changes from who is looking at him. The image described here is how Robyn supposendly sees Lex.
+(This information is to confirm and write about)
+
 ## Lore (WIP)
+
+Note: More will appear when the game's next update will drop, being given some information is PATREON EXCLUSIVE.
 
 ## Meta
 Lex is voiced by [Gary Scales](https://x.com/GL_SCALES615).
