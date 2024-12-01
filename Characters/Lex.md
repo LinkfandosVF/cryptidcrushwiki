@@ -18,7 +18,8 @@ Another interessting fact is Lex mentionning that his look changes from who is l
 
 ## Lore (WIP)
 
-Lex is a [Leviathan](https://github.com/LinkfandosVF/cryptidcrushwiki/blob/main/Lexica/Leviathan.md)
+Lex is a [Leviathan](https://github.com/LinkfandosVF/cryptidcrushwiki/blob/main/Lexica/Leviathan.md).
+
 Note: More will appear when the game's next update will drop, being given some information is PATREON EXCLUSIVE.
 
 ## Meta
