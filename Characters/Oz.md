@@ -11,7 +11,7 @@ Oz is supposedly based on the legendary creature, the "Ozark Howler"
 
 
 ## Look
-Oz is a grey howler, that has black tattoos on his arms, and a (possibly) surgical scar on his chest.
+Oz is a grey tall figure with black tattoos on his arms, and a (possibly) surgical scar on his chest.
 
 ## Lore (WIP)
 ### In Game
