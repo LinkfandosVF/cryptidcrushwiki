@@ -5,6 +5,8 @@ Height unknown
 
 Oz was born on the 24/9
 
+Oz is supposedly based on the legendary creature, the "Ozark Howler"
+
 > "Oz doesn't really talk much, so we don't have a quote for him!"
 
 
