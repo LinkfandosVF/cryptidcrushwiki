@@ -26,4 +26,4 @@
 	- Translations
 	- Development Team
 
-Don't know where to start? Check out the [Plot](./General/Plot.md#) First.
+Don't know where to start? Check out the [Plot](./General/Plot.md#) First. (Poorly written + wip = it sucks, don't)
