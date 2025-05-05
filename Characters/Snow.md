@@ -15,6 +15,11 @@ Snow is a tall mothman with short antennae and white feathers. She has red glowi
 ## Gallery
 WIP
 
+## Side Notes
+- Atlas doesn't seem to remember a lot of his mother, but he does keep a damaged picture of her and his dad in his room. The part with snow on the picture is missing and the photography was probably Atticus' propriety. Atlas drew her on a piece of paper that he taped to the back of the picture to fill the missing part.
+
+- Multiple elements in the game shows that Atlas probably grew up with only his father.
+
 ## References 
 1 - Defunt is a fancy word for dead, an adjective of « passed away »
 
