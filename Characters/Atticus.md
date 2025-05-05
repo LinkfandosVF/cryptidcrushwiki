@@ -23,6 +23,7 @@ Atticus is presented as "the mothman". He has grey wings and feathers, and wears
 ## Side notes
 - Atticus has... WHITE HAIRS???? We can see some white hairs going from his mustache to his antenna. Now you can't unsee it. You're welcome.
 
+- MIKEY AND DOM, PLS MAKE HIM DAETABLE WE BEG YOU AAAAAAAAAAAAAA
 ## Meta
 Atticus is voiced by Gianni Matragrano.
 
