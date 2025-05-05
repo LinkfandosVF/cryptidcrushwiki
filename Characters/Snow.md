@@ -17,5 +17,7 @@ WIP
 
 ## References 
 1 - Defunt is a fancy word for dead, an adjective of « passed away »
+
 2 - Atticus is a character. Check (Atticus)[Atticus.md]
+
 3 - A GAME theory./j
