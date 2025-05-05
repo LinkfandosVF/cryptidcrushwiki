@@ -16,6 +16,8 @@ In his werewolf form, he grows considerably taller, his entire body taking on lu
 <img src="https://www.cryptidcrush.com/assets/images/image05.png?v=5fd43f5e" width="300">
 August's sprite from the website. Half form, perhaps?
 
+BROKEN IMAGE WOOHOOO
+
 ## Lore
 August's full name is Augustus James Summers.
 ### In Game
